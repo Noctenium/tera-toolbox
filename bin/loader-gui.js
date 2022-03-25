@@ -57,7 +57,7 @@ function Migration() {
 }
 
 // Installed mod management
-const AvailableModuleListUrl = "https://raw.githubusercontent.com/tera-toolbox/tera-mods/master/modulelist.json";
+const AvailableModuleListUrl = "https://raw.githubusercontent.com/Noctenium/tera-mods/master/modulelist.json";
 const { listModuleInfos, installModule, uninstallModule, toggleAutoUpdate, toggleLoad } = require("tera-mod-management");
 
 let CachedAvailableModuleList = null;
