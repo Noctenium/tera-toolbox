@@ -4,7 +4,7 @@
   "description": "Comprehensive modding framework for TERA.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tera-toolbox/tera-toolbox.git"
+    "url": "git+https://github.com/Noctenium/tera-toolbox.git"
   },
   "author": "Caali",
   "contributors": [

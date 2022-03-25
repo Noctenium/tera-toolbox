@@ -1,6 +1,6 @@
 {
   "files": {
-    "package.json": "2ba763b107cbae008305f261e1ec1aa6de5568551e8bc978f64d166300d41063",
+    "package.json": "E3D3CE04EA12744D7233CB54587F510EAE3BDDD2D4DD694852D924EBBCA1D296",
     "README.md": "7f1a1eac5c786029257f248848072848746b0b9e370c13db4fc79f6f3e099ea0",
     "TeraToolbox.exe": "01a98bb95954fb7581514468a95ce3c3bd08f3b06f182a567d44b738d1067307",
     "TeraToolboxCLI.exe": "af4dd88ce3913bb595dda072282cac98e65075d576c8e68f3a42270c56ef74eb",
@@ -111,8 +111,8 @@
     "node_modules/tera-network-crypto/LICENSE": "9c1d8fd3abccd9353fd03eb06826f0184139e86d985e83319f0ca28eedeaad5b",
     "node_modules/tera-network-crypto/package.json": "20be9292cd958837c8efc7de2e9d7a0efc9d29540fc0f86d09d218be75956d7d",
     "node_modules/tera-network-crypto/README.md": "c7833ca7c9e4d5247fef229663820472ba783081f74abce98a9e95ed84553412",
-    "node_modules/tera-network-crypto/bin/tera_network_crypto_85.node": "f788cd2339acf1356f4a12a54f19b67e8eb49a095fb0171b88a978bebdcd28e8",
-    "node_modules/tera-network-crypto/bin/tera_network_crypto_88.node": "94eaf3c9a2b8b28634a508475f2c2a07928265d3724a52ac44e86c31ed466b41",
+    "node_modules/tera-network-crypto/bin/tera_network_crypto_85.node": "42686AAEE4F1C6B876ADD9A7FA8D82B04389D8788BD71D98E270432C5D81991F",
+    "node_modules/tera-network-crypto/bin/tera_network_crypto_88.node": "4C253871B75F5A9B8ED6A63651D0AE5FCC5F7E94256F5E22DFE002BB3BB6AD17",
     "node_modules/tera-network-proxy/LICENSE": "53927bd0b739d38c87a0a82236fd9b070c2dfff11c0c119be50372005d5047ad",
     "node_modules/tera-network-proxy/package.json": "c077582d15a79f1d2fefcd1baa592bf563c8286c0b23ac0b13c02b81936b4759",
     "node_modules/tera-network-proxy/README.md": "39f99b3114ab9850b715a090758d73032e03a259993c195445a0943641436a47",
