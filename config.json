@@ -3,14 +3,17 @@
     "uilanguage": "en",
     "updatelog": false,
     "devmode": false,
-    "noselfupdate": false,
+    "noselfupdate": true,
     "noupdate": false,
     "noslstags": false,
     "removecounters": false,
     "gui": {
         "theme": "black",
-        "autostart": false,
+        "autostart": true,
         "logtimes": true,
-        "cleanstart": false
+        "cleanstart": false,
+        "maximized": false,
+        "width": 743,
+        "height": 514
     }
 }
