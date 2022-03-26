@@ -71,7 +71,6 @@
         "mods/instant-everything/module.json": "ec9e118ef92578fdc151ab899ecd5de100070393615a0d3a2719851b79b272ba",
         "mods/skill-prediction/module.json": "80221d4d533ac9b98561bfda12392fa9f6226e45927ec30db641571ab5da2d69",
         "mods/tera-game-state/module.json": "66d433d3926615e39473966fa5f24b4aa65137808807cf9eeb97baaab7f6c5c9",
-        "module.json": "eafb7828620cc93656621979da1df4e222a8f657fb309022e471b4fd7e0c9f44",
         "node_modules/binary-search/README.md": "5e84445eb6005d26ee6270438517d4b0289aac42329f31af9c958cc0187ba9fc",
         "node_modules/binary-search/index.js": "2c647cb7a142dd048870e69b4ca4bdb5b45c73a6190a8fce61a2724df678b27f",
         "node_modules/node-fetch/LICENSE.md": "84eaa985e1ef71b8c630e8aba73404c219ff425c6fdb45c62e998b58d4fbdc8e",
